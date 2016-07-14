@@ -1,39 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My blog is awesome</title>
-    <link>https://mymk.github.io/french-collective/</link>
-    <description>Recent content on My blog is awesome</description>
+    <title>Posts on My blog is awesome</title>
+    <link>https://mymk.github.io/french-collective/post/</link>
+    <description>Recent content in Posts on My blog is awesome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
     <copyright>All rights reserved - 2015</copyright>
-    <lastBuildDate>Tue, 14 Apr 2015 22:17:00 +0000</lastBuildDate>
-    <atom:link href="https://mymk.github.io/french-collective/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>About me</title>
-      <link>https://mymk.github.io/french-collective/about/</link>
-      <pubDate>Tue, 14 Apr 2015 22:17:00 +0000</pubDate>
-      
-      <guid>https://mymk.github.io/french-collective/about/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Yow !&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>dotScale 2014 as a sketch</title>
-      <link>https://mymk.github.io/french-collective/dotscale-2014-as-a-sketch/</link>
-      <pubDate>Fri, 11 Jul 2014 10:54:24 +0200</pubDate>
-      
-      <guid>https://mymk.github.io/french-collective/dotscale-2014-as-a-sketch/</guid>
-      <description>&lt;p&gt;Contents here&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Thu, 14 Apr 2005 22:17:00 +0200</lastBuildDate>
+    <atom:link href="https://mymk.github.io/french-collective/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>1 clavier, 1 souris, et plusieurs machines.</title>
