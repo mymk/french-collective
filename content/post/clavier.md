@@ -1,5 +1,5 @@
 +++
-date = "2005-04-14T22:17:00+02:00"
+date = "2005-04-14T22:17:00+00:00"
 draft = false
 slug = "1-clavier-1-souris-et-plusieurs-machines"
 tags = ["tools"]
