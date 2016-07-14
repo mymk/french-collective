@@ -7,8 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
     <copyright>All rights reserved - 2015</copyright>
-    <lastBuildDate>Thu, 14 Apr 2005 22:17:00 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 14 Jul 2016 13:07:00 +0000</lastBuildDate>
     <atom:link href="https://mymk.github.io/french-collective/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>my new post</title>
+      <link>https://mymk.github.io/french-collective/post/my-new-post/</link>
+      <pubDate>Thu, 14 Jul 2016 13:07:00 +0000</pubDate>
+      
+      <guid>https://mymk.github.io/french-collective/post/my-new-post/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>1 clavier, 1 souris, et plusieurs machines.</title>
