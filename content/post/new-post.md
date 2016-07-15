@@ -1,10 +1,11 @@
 +++
 banner = ""
 categories = []
-date = ""
+date = "2016-07-15T14:35:00+00:00"
 description = ""
-draft = true
+draft = false
 tags = []
 title = "New post"
 
 +++
+content
