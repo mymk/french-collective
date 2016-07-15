@@ -3,9 +3,9 @@ banner = ""
 categories = []
 date = "2016-07-15T14:33:00+00:00"
 description = ""
-draft = true
+draft = false
 tags = []
-title = "Path"
+title = "Path svg editor"
 
 +++
-Path
+ [Path](http://jxnblk.com/paths/)
