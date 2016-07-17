@@ -1,9 +1,10 @@
 Copyright = "All rights reserved - 2015"
-DisqusShortname = "yo_0"
+DisqusShortname = "mymk"
 LanguageCode = "fr-FR"
-Title = "Awesome content for web dev"
+Title = "Mymk collective"
 baseurl = "https://mymk.github.io/"
 canonifyurls = true
+pluralizelisttitles = false
 paginate = 5
 theme = "casper"
 [[menu.main]]
