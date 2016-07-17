@@ -2,6 +2,6 @@
 title = ""
 description = ""
 tags = []
-banner = ""
+image = ""
 categories = []
 +++
