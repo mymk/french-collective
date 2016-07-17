@@ -8,4 +8,5 @@ tags = []
 title = "Path svg editor"
 
 +++
- [Path](http://jxnblk.com/paths/)
+[Path](![http://jxnblk.com/paths/])
+![](/static/images/jxnblk.com_paths.png)
