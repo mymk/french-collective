@@ -1,5 +1,5 @@
 +++
-banner = "https://mymk.github.io/static/images/jxnblk.com_paths.png"
+banner = "static/images/jxnblk.com_paths.png"
 categories = ["svg"]
 date = "2016-07-15T14:33:00+00:00"
 description = ""
