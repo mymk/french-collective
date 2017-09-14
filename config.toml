@@ -4,8 +4,8 @@ LanguageCode = "fr-FR"
 Title = "Mymk collective"
 baseurl = "https://mymk.github.io/"
 canonifyurls = true
-pluralizelisttitles = false
 paginate = 5
+pluralizelisttitles = false
 theme = "casper"
 [[menu.main]]
 identifier = "blog"
