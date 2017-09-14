@@ -8,3 +8,7 @@ tags = []
 title = "test supa article"
 
 +++
+
+
+![](/adress.jpg)
+
