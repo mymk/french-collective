@@ -1,6 +1,6 @@
 ---
 upload_path: "/forestryio/images"
-frontmatter_file_url_template: images/
+frontmatter_file_url_template: "/forestryio/images"
 body_file_url_template: ''
 new_page_extension: md
 auto_deploy: true
