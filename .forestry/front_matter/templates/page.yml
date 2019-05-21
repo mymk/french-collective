@@ -1,4 +1,5 @@
 ---
+label: page
 hide_body: false
 fields:
 - name: title
@@ -31,3 +32,6 @@ fields:
   label: Tags
   hidden: false
   type: tag_list
+pages:
+- content/contact.md
+- content/about.md
