@@ -33,6 +33,6 @@ fields:
   hidden: false
   type: tag_list
 pages:
-- content/post/test.md
 - content/post/path.md
 - content/post/test-supa-article.md
+- content/post/test.md

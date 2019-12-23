@@ -33,5 +33,5 @@ fields:
   hidden: false
   type: tag_list
 pages:
-- content/contact.md
 - content/about.md
+- content/contact.md
